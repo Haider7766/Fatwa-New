@@ -1,0 +1,17 @@
+node_modules
+
+# Ignore system folders and files
+# AppData/
+# Documents/
+# Downloads/
+# Favorites/
+# Links/
+# Music/
+# OneDrive/
+# Pictures/
+# Saved Games/
+# Searches/
+# Videos/
+# ntuser.dat*
+# *.bak
+# *.log

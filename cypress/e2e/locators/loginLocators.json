@@ -1,0 +1,5 @@
+{
+    "username": "(//input[@id='mail'])[1]",
+    "password": "(//input[@id='pass'])[1]",
+    "submit": "(//button[@type='submit'])[1]"
+  }
